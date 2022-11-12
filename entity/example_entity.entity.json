@@ -1,0 +1,18 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "customies:example_entity",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/example_entity"
+			},
+			"geometry": {
+				"default": "geometry.example_entity"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

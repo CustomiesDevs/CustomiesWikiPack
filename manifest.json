@@ -1,0 +1,18 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Customies Wiki",
+		"description": "Example resource pack for the Customies Wiki",
+        "uuid": "6e784d16-e9f5-44b0-a3b2-c6bf0fb414f2",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"modules": [
+		{
+			"description": "Customies Wiki",
+			"type": "resources",
+            "uuid": "dee362bd-1a54-48fd-b172-2f3b574fc73a",
+			"version": [1, 0, 0]
+		}
+	]
+}
